@@ -2,7 +2,7 @@
 
 - I am [Hakan Bayraktar](https://www.linkedin.com/in/hakanbayraktar/).
 
-- About me:
+# About me:
 
 ✅ AWS Certified Solution Architect with 15+ years of experience in Linux, DevOps, AWS, Google Cloud Platform, cloud infrastructures, Cloud migrations, System automation, CI/CD, and much more!
 
