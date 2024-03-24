@@ -2,14 +2,30 @@
 
 - I am [Hakan Bayraktar](https://www.linkedin.com/in/hakanbayraktar/).
 
-- Brief intro about me:
-   * I’m a full-time freelancer. I have 15+ years of experience in Installing, configuring and administrating various type of Linux/Unix servers using various open source and closed source software for various customer requirement in the industry.
-  * I love automation, coding, problem-solving, learning new skills, and implementing them to solve different challenges.
-  
-- Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `EKS`,`GKE`,`Fargate`,`Docker`, `Terraform`, `Ansible`, `Helm`, `GithubAction`,`Jenkins`, `GitLab`, `ArgoCd`,`Maven`,`Gradle`, `Nexus`, `Prometheus`, `Grafana`, `Zabbix`,`NewRelic`,`Linux`, `Python`, `Bash Scripting`.
+- About me:
 
-- My Certificates
-`Amazon AWS Certified Solution Architect certificate ` 
-`Red Hat Certified Technician (Red Hat Enterprise Linux 5) ` 
-`Certified Ethical Hacker v6  ` 
-`MCSE Windows Server 2003 Certification. ` 
+✅ AWS Certified Solution Architect with 15+ years of experience in Linux, DevOps, AWS, Google Cloud Platform, cloud infrastructures, Cloud migrations, System automation, CI/CD, and much more!
+
+✓ Solution-oriented DevOps Expert concentrated on making your infrastructure optimized, stable and reliable
+✓ Strong experience architecting, running, and managing complex systems and infrastructures
+✓ Main focuses - Automation, optimization, monitoring, and alerting in Cloud or large-scale server environments
+✓ Highly skilled with AWS and GCP-based infrastructures
+
+✅ Certifications:
+- AWS Certified Solution Architect Certificate
+- Certified Kubernetes Administrator (CKA)
+- Red Hat Certified Technician (Red Hat Enterprise Linux 5)
+- Certified Ethical Hacker
+
+✅ Core skills and technologies:
+- Cloud platforms: AWS, GCP, Digital Ocean
+- Containers: Docker, Kubernetes
+- Monitoring: Zabbix, Grafana, ELK, Prometheus, NewRelic
+- Automation: Ansible, Terraform, CDK
+- CI/CD : Jenkins, Gitlab, Github Action
+- Scripting: Bash, Python
+- Databases: MySQL, PostgreSQL
+- No-SQL: Redis, ElasticSearch
+- Web servers: Apache, Nginx, Lighttpd, Wildfly, Tomcat
+- Operating systems: CentOS, Debian, RedHat, Ubuntu, Amazon Linux
+  * I love automation, coding, problem-solving, learning new skills, and implementing them to solve different challenges.
