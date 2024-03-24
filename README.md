@@ -9,7 +9,7 @@
 ✓ Solution-oriented DevOps Expert concentrated on making your infrastructure optimized, stable and reliable
 ✓ Strong experience architecting, running, and managing complex systems and infrastructures
 ✓ Main focuses - Automation, optimization, monitoring, and alerting in Cloud or large-scale server environments
-✓ Highly skilled with AWS and GCP-based infrastructures
+✓ I love automation, coding, problem-solving, learning new skills, and implementing them to solve different challenges.
 
 ✅ Certifications:
 - AWS Certified Solution Architect Certificate
@@ -28,4 +28,4 @@
 - No-SQL: Redis, ElasticSearch
 - Web servers: Apache, Nginx, Lighttpd, Wildfly, Tomcat
 - Operating systems: CentOS, Debian, RedHat, Ubuntu, Amazon Linux
-  * I love automation, coding, problem-solving, learning new skills, and implementing them to solve different challenges.
+  
