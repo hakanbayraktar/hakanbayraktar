@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am [Hakan Bayraktar](https://www.linkedin.com/in/hakanbayraktar/).
+# I am [Hakan Bayraktar](https://www.linkedin.com/in/hakanbayraktar/).
 
 # About me:
 
