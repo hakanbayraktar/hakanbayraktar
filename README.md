@@ -6,11 +6,39 @@
 
 ## 🚀 Professional Summary
 
-I have a solid background in **IT operations and systems administration**, and over the **last five years**, I have been focusing on **DevOps practices and cloud engineering**, primarily in **AWS-based environments**.
+After working for many years in **IT operations and IT management roles**, I have been focusing for the **last five years** on **DevOps practices and cloud technologies**, including **AWS, Kubernetes, and Terraform**.
 
-My experience includes working with **Terraform, Kubernetes, CI/CD pipelines, and Linux systems**, supporting cloud infrastructure in practical, real-world scenarios. In parallel, I also deliver **technical training in DevOps and cloud fundamentals**, which helps me maintain a structured, best-practice-oriented approach.
+I work with cloud infrastructure, container platforms, and CI/CD pipelines, with a strong focus on **practical, hands-on implementation** and operational reliability.  
+In parallel, I also deliver **hands-on, practice-oriented training** in DevOps and cloud fundamentals, which helps me maintain a structured, best-practice-driven approach.
 
-I am particularly interested in working within **well-defined, security-conscious, and production-grade environments**, where I can continue to grow as a cloud engineer while contributing reliably to the team.
+I am especially interested in working in **well-defined, security-conscious, and production-grade environments**, where I can continue to grow as a cloud engineer and contribute reliably as part of a team.
+
+---
+
+## 📚 What You Can Find in This GitHub Profile
+
+This GitHub profile contains both **engineering-focused repositories** and **educational content**.
+
+### 🎓 Educational & Training Content
+
+Repositories or folders tagged with `education`, `training`, `student`, or `basics` include:
+
+- DevOps and cloud fundamentals
+- Learning exercises and examples
+- Step-by-step materials created for training sessions
+
+These resources were created for **teaching and mentoring purposes**.
+
+### 💼 Hands-On Engineering Examples
+
+For **production-oriented and practical examples**, please review my **Pinned Repositories**, especially those related to:
+
+- **Terraform & Infrastructure as Code**
+- **AWS cloud environments**
+- **Kubernetes configurations**
+- CI/CD pipelines and automation
+
+This separation reflects my dual focus on **practical engineering work** and **technical knowledge sharing**.
 
 ---
 
