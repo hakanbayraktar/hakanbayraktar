@@ -14,12 +14,12 @@ I am particularly interested in working within **well-defined, security-consciou
 
 ---
 
-## 🎓 Note to Recruiters & Reviewers
+## 🎓 Note  
 
 This repository also contains **educational and training-related content**.
 
-- Repositories and folders tagged with `education`, `training`, `student`, or `basics` include **learning materials and examples** created for DevOps and cloud training sessions.
-- You can find **hands-on, production-oriented examples** in my **Pinned Repositories**, especially those related to **Terraform, AWS, and Kubernetes**.
+- created for DevOps and cloud training sessions.
+- You can find **hands-on, production-oriented examples**, especially those related to **Terraform, AWS, and Kubernetes**.
 
 This separation reflects my dual focus on **practical engineering work** and **technical knowledge sharing**.
 
