@@ -51,7 +51,9 @@ This separation reflects my dual focus on **practical engineering work** and **t
 
 - ✅ **AWS Certified Solutions Architect – Associate**  
 - ✅ **Certified Kubernetes Administrator (CKA)**  
-- ✅ **Red Hat Certified Technician**  
+- ✅ **HashiCorp Certified: Terraform Associate (003)**
+- ✅ **Red Hat Certified Technician**
+- ✅ **Certified Ethical Hacker**
 
 ---
 
