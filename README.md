@@ -50,8 +50,6 @@ This repository also contains **educational and training-related content**.
 - created for DevOps and cloud training sessions.
 - You can find **hands-on, production-oriented examples**, especially those related to **Terraform, AWS, and Kubernetes**.
 
-This separation reflects my dual focus on **practical engineering work** and **technical knowledge sharing**.
-
 ---
 
 ## 📫 Connect with me
