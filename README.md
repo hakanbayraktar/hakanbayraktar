@@ -19,9 +19,7 @@ I am especially interested in working in **well-defined, security-conscious, and
 
 This GitHub profile contains both **engineering-focused repositories** and **educational content**.
 
-### 🎓 Educational & Training Content
-
-Repositories include:
+🎓 Repositories include:
 
 - DevOps and cloud fundamentals
 - Learning exercises and examples
