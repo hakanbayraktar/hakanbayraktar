@@ -21,24 +21,13 @@ This GitHub profile contains both **engineering-focused repositories** and **edu
 
 ### 🎓 Educational & Training Content
 
-Repositories or folders tagged with `education`, `training`, `student`, or `basics` include:
+Repositories include:
 
 - DevOps and cloud fundamentals
 - Learning exercises and examples
 - Step-by-step materials created for training sessions
 
 These resources were created for **teaching and mentoring purposes**.
-
-### 💼 Hands-On Engineering Examples
-
-For **production-oriented and practical examples**, please review my **Pinned Repositories**, especially those related to:
-
-- **Terraform & Infrastructure as Code**
-- **AWS cloud environments**
-- **Kubernetes configurations**
-- CI/CD pipelines and automation
-
-This separation reflects my dual focus on **practical engineering work** and **technical knowledge sharing**.
 
 ---
 
