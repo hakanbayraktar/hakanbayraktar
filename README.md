@@ -17,22 +17,18 @@ I am particularly interested in working within **well-defined, security-consciou
 ## 🛠️ Technical Skills
 
 ### ☁️ Cloud & Infrastructure
-- **Cloud Platforms:** AWS (primary), GCP (basic), DigitalOcean  
-- **Infrastructure as Code:** Terraform (modules, remote state), Ansible  
-- **Containers & Orchestration:** Kubernetes (CKA Certified), Docker, Helm, Amazon EKS  
+
+- **Cloud Platforms:** AWS, GCP, Azure, DigitalOcean  
+- **Infrastructure as Code:** Terraform(Certified), Ansible  
+- **Containers & Orchestration:** Kubernetes, Docker, Helm, Amazon EKS, GKE, AKS  
 
 ### ⚙️ CI/CD & Automation
-- **CI/CD:** GitLab CI, GitHub Actions  
-- **Scripting:** Bash, Python (basic automation)  
-
-### 🛡️ Security & Best Practices
-- IAM fundamentals and least-privilege principles  
-- Security groups and network segmentation  
-- Awareness of ISO 27001-oriented workflows  
+- **CI/CD:** GitLab CI, GitHub Actions, ArgoCD  
+- **Scripting:** Bash, Python
 
 ### 📊 Monitoring & Observability
 - Prometheus, Grafana  
-- ELK Stack (basic usage)  
+- ELK Stack    
 
 ---
 
