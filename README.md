@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Hakan Bayraktar
 
 **Cloud / DevOps Engineer | AWS & Kubernetes | Technical Trainer**
-(https://www.linkedin.com/in/hakanbayraktar/).
 ---
 # About me:
 
